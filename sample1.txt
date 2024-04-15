@@ -9,3 +9,5 @@ Google
 kindly commite the changes...in sample1.txt file;;;;;;;;;;
 ;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;
+DB details 
+server details..
